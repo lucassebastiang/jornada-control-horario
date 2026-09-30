@@ -183,7 +183,7 @@ Además, un linter propio prohíbe estilos en línea, diálogos nativos (`alert`
 - **Fase 6 en curso**: puesta en marcha centro a centro y funcionamiento en paralelo con el sistema anterior antes de darlo de baja.
 - **Cifras del repositorio**: 170 commits, 25 migraciones de base de datos y 80 ficheros de prueba.
 - **Rendimiento**: en un ensayo con datos sintéticos a escala de la plantilla, las pantallas pesadas (cuadrante mensual, cierre de mes) responden por debajo de 0,4 s. El registro para la Inspección de dos meses tarda menos de 1 s.
-- **Pendiente**: validar el fichaje sin conexión en una tablet real del centro, y {{pendiente}} (uso real de la plantilla y fecha de baja del sistema anterior).
+- **Pendiente**: validar el fichaje sin conexión en una tablet real del centro.
 
 ## Cómo se construyó
 
